@@ -15,13 +15,13 @@ public class Bot {
 	
 	
 	
-	private static final String CONSUMERKEY ="ewzgRXuX3ltr2LoK36RQkxjMt";
+	private static final String CONSUMERKEY ="";
 	
-	private static final String CONSUMERKEYS= "jZbPPDCjRe174rZ7NNJs0lo7ckj63CZ0t914OZyNEYTQMKD8AW";
+	private static final String CONSUMERKEYS= "";
 
-	private static final String ACESSTOKEN="1243260081069674496-fv1L4guwwAxzhY0PWB0kl2BNB1aeaA";
+	private static final String ACESSTOKEN="";
 
-	private static final String ACESSTOKENS="t6wE09TQNJsYVjDykowjaWGWgOCKYqfQL2IPbTyKZ7phQ" ;
+	private static final String ACESSTOKENS="" ;
 	
 	
 
